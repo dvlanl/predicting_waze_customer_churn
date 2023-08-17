@@ -1,6 +1,6 @@
 # Predicting Customer Churn within Waze
 
-![Waze Logo](waze_logo.png)
+![Waze Logo](Waze_logo.png)
 
 Welcome to the README for the "Predicting Customer Churn within Waze" data science project. In this project, we build regression and machine learning models to predict customer churn within the Waze navigation app. Waze is a community-driven navigation app that provides real-time road alerts, live traffic updates, and interactive maps, helping millions of users reach their destinations efficiently.
 
