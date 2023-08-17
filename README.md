@@ -44,8 +44,8 @@ We used a public Waze dataset for this project. You can download the raw dataset
 
 1. Clone this repository:
    ```
-   git clone https://github.com/dvlanl/waze_data_science_project.git
-   cd waze_data_science_project
+   git clone https://github.com/dvlanl/predicting_waze_customer_churn.git
+   cd predicting_waze_customer_churn
    ```
 
 2. Set up the Conda environment and install dependencies (see the Installation section).
